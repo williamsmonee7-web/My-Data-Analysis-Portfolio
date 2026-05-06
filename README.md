@@ -1,7 +1,7 @@
 # My-Data-Analysis-Portfolio
 Every single project I have ever conducted during my TripleTen journey is displayed in this humble portfolio. 
 
-So far, I have uploaded three out of my many projects into this repository thus far: my Business Analytics project, Spreadsheet Data Analysis project, and my Tableau Worksheet project. 
+This portfolio showcases three data analysis projects from my TripleTen journey, demonstrating skills in business analytics, spreadsheet analysis, and data visualization.
 
 Projects (As they appear in my folder):
 
