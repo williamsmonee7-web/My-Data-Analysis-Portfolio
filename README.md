@@ -1,4 +1,5 @@
-# My-Data-Analysis-Portfolio
+Data_projects_TripleTen
+
 Every single project I have ever conducted during my TripleTen journey is displayed in this humble portfolio. 
 
 This portfolio showcases three data analysis projects from my TripleTen journey, demonstrating skills in business analytics, spreadsheet analysis, and data visualization.
