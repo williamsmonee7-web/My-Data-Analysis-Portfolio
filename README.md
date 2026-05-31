@@ -1,4 +1,4 @@
-Data_projects_TripleTen
+My TripleTen Journey
 
 Every single project I have ever conducted during my TripleTen journey is displayed in this humble portfolio. 
 
